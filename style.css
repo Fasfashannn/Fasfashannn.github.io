@@ -10,6 +10,15 @@ body    {
 .nav-link   {
     margin-right: 50px;
 }
+/* .nav-link:hover::after {
+    content: '';
+    display: block;
+    border-bottom: 3px solid #987DE3 ;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 5px;
+    margin-bottom: -8px;
+} */
 /* END OF NAVBAR */
 
 /* HERO SECTION */
