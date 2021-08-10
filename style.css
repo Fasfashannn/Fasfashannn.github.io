@@ -37,4 +37,49 @@ body    {
     padding: 14px 15px;
     margin-top: 25px;
 }
-/* END OFHERO SECTION */
+/* END OF HERO SECTION */
+
+/* PORTFOLIO */
+#portfolio  {
+    margin-top: 80px;
+}
+/* PORTFOLIO */
+
+/* MOBILE VERSION */
+@media (max-width: 991.98px) { 
+
+    #Hero   {
+        margin-top: 10px;
+        text-align: center
+    }
+    .name   {
+        font-size: 26px ;
+        color: white;
+        font-weight: 600;
+        line-height: 95px;
+        text-align: center;
+    }
+    .description    {
+        color: #828282;
+        text-align: center;
+        margin-top: -30px;
+    }
+    .btn    {
+        background: #987DE3;
+        box-shadow: 0px 4px 4px rgba(139, 139, 139, 0.25);
+        border-radius: 5px;
+        color: white;
+        text-transform: uppercase;
+        font-size: 15px;
+        font-weight: bold;
+        letter-spacing: 0.075em;
+        padding: 14px 15px;
+        margin-top: -5px;
+       ;
+    }
+    .img-fluid  {
+        margin-top: 25px;
+        
+    }
+}
+/* MOBILE VERSION */
